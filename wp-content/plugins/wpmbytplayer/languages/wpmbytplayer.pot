@@ -1,0 +1,478 @@
+# Copyright (C) 2016 mb.YTPlayer background video
+# This file is distributed under the same license as the mb.YTPlayer background video package.
+msgid ""
+msgstr ""
+"Project-Id-Version: mb.YTPlayer background video 2.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpmbytplayer\n"
+"POT-Creation-Date: 2016-01-09 17:33:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: mbYTPlayer-admin.php:53 ytptinymce/ytplayertinymce.php:63
+msgid ""
+"If you like it and you are using it then you should consider a donation <br> "
+"(€15,00 or more) :-)"
+msgstr ""
+
+#: mbYTPlayer-admin.php:60 ytptinymce/ytplayertinymce.php:70
+msgid "I already donate"
+msgstr ""
+
+#: mbYTPlayer-admin.php:101
+msgid "mb.YTPlayer Settings"
+msgstr ""
+
+#: mbYTPlayer-admin.php:102
+msgid "You’re using mb.YTPlayer v. %s"
+msgstr ""
+
+#: mbYTPlayer-admin.php:102
+msgid "by"
+msgstr ""
+
+#: mbYTPlayer-admin.php:119
+msgid "Thanks for downloading mb.YTPlayer!"
+msgstr ""
+
+#: mbYTPlayer-admin.php:121
+msgid ""
+"If you like it and you are using it<br>then you should consider a donation "
+"(€15,00 or more) :-)"
+msgstr ""
+
+#: mbYTPlayer-admin.php:123
+msgid "If you donate, the start popup will nevermore display"
+msgstr ""
+
+#: mbYTPlayer-admin.php:126
+msgid "Don’t forget to follow me on twitter"
+msgstr ""
+
+#: mbYTPlayer-admin.php:127
+msgid "Visit my site"
+msgstr ""
+
+#: mbYTPlayer-admin.php:128
+msgid "Visit my blog"
+msgstr ""
+
+#: mbYTPlayer-admin.php:129
+msgid "donate"
+msgstr ""
+
+#: mbYTPlayer-admin.php:135
+msgid "Subscribe to my mailing list<br>to stay in touch"
+msgstr ""
+
+#: mbYTPlayer-admin.php:136
+msgid "your email address"
+msgstr ""
+
+#: mbYTPlayer-admin.php:137
+msgid "Subscribe"
+msgstr ""
+
+#: mbYTPlayer-admin.php:147
+msgid "Reference"
+msgstr ""
+
+#: mbYTPlayer-admin.php:149
+msgid ""
+"You can add a mb.YTPlayer to any of your posts via the shortcode editor "
+"available by clicking the button placed on the button-bar of the post "
+"content editor"
+msgstr ""
+
+#: mbYTPlayer-admin.php:151
+msgid "Home page background video properties"
+msgstr ""
+
+#: mbYTPlayer-admin.php:152
+msgid ""
+"These settings are used only for the Home istance of the mb.YTPlayer "
+"component"
+msgstr ""
+
+#: mbYTPlayer-admin.php:159
+msgid "activate the background video"
+msgstr ""
+
+#: mbYTPlayer-admin.php:162
+msgid ""
+"Check to activate the background video for the Homepage or the blog index "
+"page"
+msgstr ""
+
+#: mbYTPlayer-admin.php:167
+msgid "The Youtube vudeo url is:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:171
+msgid ""
+"Copy and paste here the URL of the Youtube video you want as your homepage "
+"background. Adding more then one URL comma separated it will be chosen one "
+"randomly each time you reach the page."
+msgstr ""
+
+#: mbYTPlayer-admin.php:176
+msgid "The page where to show the background video is:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:181
+msgid "Choose on which page you want the background video to be shown"
+msgstr ""
+
+#: mbYTPlayer-admin.php:186
+msgid "Set the opacity:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:194
+msgid "Set the opacity of the background video"
+msgstr ""
+
+#: mbYTPlayer-admin.php:199
+msgid "Set the quality:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:202
+msgid "default"
+msgstr ""
+
+#: mbYTPlayer-admin.php:203 ytptinymce/ytplayertinymce.php:155
+msgid "small"
+msgstr ""
+
+#: mbYTPlayer-admin.php:204 ytptinymce/ytplayertinymce.php:156
+msgid "medium"
+msgstr ""
+
+#: mbYTPlayer-admin.php:205 ytptinymce/ytplayertinymce.php:157
+msgid "large"
+msgstr ""
+
+#: mbYTPlayer-admin.php:206 ytptinymce/ytplayertinymce.php:158
+msgid "hd720"
+msgstr ""
+
+#: mbYTPlayer-admin.php:207 ytptinymce/ytplayertinymce.php:159
+msgid "hd1080"
+msgstr ""
+
+#: mbYTPlayer-admin.php:208 ytptinymce/ytplayertinymce.php:160
+msgid "highres"
+msgstr ""
+
+#: mbYTPlayer-admin.php:210
+msgid ""
+"Set the quality of the background video (\"default\" YouTube selects the "
+"appropriate playback quality)"
+msgstr ""
+
+#: mbYTPlayer-admin.php:215
+msgid "Set the aspect ratio:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:218
+msgid "auto"
+msgstr ""
+
+#: mbYTPlayer-admin.php:219 ytptinymce/ytplayertinymce.php:169
+#: ytptinymce/ytplayertinymce.php:188
+msgid "4/3"
+msgstr ""
+
+#: mbYTPlayer-admin.php:220 ytptinymce/ytplayertinymce.php:170
+#: ytptinymce/ytplayertinymce.php:189
+msgid "16/9"
+msgstr ""
+
+#: mbYTPlayer-admin.php:222
+msgid ""
+"Set the aspect-ratio of the background video. If \"auto\" the plug in will "
+"try to retrieve the aspect ratio from Youtube. If you have problems on "
+"viewing the background video try setting this manually."
+msgstr ""
+
+#: mbYTPlayer-admin.php:228
+msgid "The video should start at:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:231
+msgid "Set the seconds the video should start at"
+msgstr ""
+
+#: mbYTPlayer-admin.php:236
+msgid "The video should stop at:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:239
+msgid "Set the seconds the video should stop at"
+msgstr ""
+
+#: mbYTPlayer-admin.php:244
+msgid "Show the control bar:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:247
+msgid "Check to show controls at the bottom of the page"
+msgstr ""
+
+#: mbYTPlayer-admin.php:250
+msgid "Check to show the link to the original YouTube® video"
+msgstr ""
+
+#: mbYTPlayer-admin.php:267
+msgid "The full screen behavior is:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:270 ytptinymce/ytplayertinymce.php:209
+msgid "Full screen containment is the screen"
+msgstr ""
+
+#: mbYTPlayer-admin.php:272 ytptinymce/ytplayertinymce.php:213
+msgid "Full screen containment is the browser window"
+msgstr ""
+
+#: mbYTPlayer-admin.php:277
+msgid "Set the audio volume:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:280
+msgid "Set the volume for the video (from 0 to 100)"
+msgstr ""
+
+#: mbYTPlayer-admin.php:285
+msgid "Mute the video:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:288
+msgid "Check to mute the audio of the video"
+msgstr ""
+
+#: mbYTPlayer-admin.php:293
+msgid "The video should loop:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:296
+msgid "Check to loop the video once ended"
+msgstr ""
+
+#: mbYTPlayer-admin.php:301
+msgid "Add the raster image:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:304
+msgid "Check to add a raster effect to the video"
+msgstr ""
+
+#: mbYTPlayer-admin.php:309
+msgid "Track the video views on Google Analytics"
+msgstr ""
+
+#: mbYTPlayer-admin.php:312
+msgid "Check to track this video on Google Analytics if played"
+msgstr ""
+
+#: mbYTPlayer-admin.php:317
+msgid "Pause the player if the windows blur:"
+msgstr ""
+
+#: mbYTPlayer-admin.php:320
+msgid "Check to pause the player once the window blur"
+msgstr ""
+
+#: mbYTPlayer-admin.php:326
+msgid "Save Changes"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:20
+msgid "Add a shortcode for mb.YTPlayer"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:130
+msgid "mb.YTPlayer video parameters:"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:135
+msgid "Video url"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:137
+msgid "YouTube video URLs (comma separated)"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:141
+msgid "Opacity"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:148
+msgid "YouTube video opacity"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:152
+msgid "Quality"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:154 ytptinymce/ytplayertinymce.php:168
+msgid "auto detect"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:162
+msgid "YouTube video quality"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:166 ytptinymce/ytplayertinymce.php:186
+msgid "Aspect ratio"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:172
+msgid "YouTube video aspect ratio"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:173
+msgid "If \"auto\" the plug in will try to get it from Youtube"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:177
+msgid "Is inline"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:179
+msgid "Show the player inline"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:183
+msgid "Player width"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:185
+msgid "Set the width of the inline player"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:191
+msgid "To get the suggested height for the player"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:193
+msgid "Player height"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:195
+msgid "Set the height of the inline player"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:201
+msgid "Show controls"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:203
+msgid "show controls for this player"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:207
+msgid "full screen"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:216
+msgid "show the link to the original YouTube® video"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:220
+msgid "Autoplay"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:222
+msgid "The player starts on page load"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:226
+msgid "Start at"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:228
+msgid "Set the seconds you want the player starts at"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:232
+msgid "stop at"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:234
+msgid "Set the seconds you want the player stops at"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:238
+msgid "Audio volume"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:240
+msgid "Set the audio volume (from 0 to 100)"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:244
+msgid "Mute video"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:246
+msgid "mute the audio of the video"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:250
+msgid "Loop video"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:252
+msgid "loop the video once ended"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:256
+msgid "Add raster"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:258
+msgid "add a raster effect"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:262
+msgid "pause on window blur"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:264
+msgid "pause the player on window blur"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:268
+msgid "Add Google Analytics"
+msgstr ""
+
+#: ytptinymce/ytplayertinymce.php:270
+msgid "add the event \"play\" on Google Analytics track"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "mb.YTPlayer background video"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://pupunzi.com/#mb.components/mb.YTPlayer/YTPlayer.html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Play a Youtube video as background of your page. <strong>Go to settings > "
+"mbYTPlayer</strong> to activate the background video option for your "
+"homepage. Or use the short code following the reference in the settings "
+"panel."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pupunzi (Matteo Bicocchi)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://pupunzi.com"
+msgstr ""

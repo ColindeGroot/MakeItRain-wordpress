@@ -1,0 +1,239 @@
+
+#wpbody-content {
+  background: url("../images/bgnd.png") no-repeat right 40px;
+  background-attachment: fixed;
+  background-size: 100px;
+}
+
+.toplevel_page_mb-ideas-menu #wpbody-content {
+  background: url("../images/general-bgnd.png") no-repeat right 40px;
+  background-attachment: fixed;
+  background-size: 60px;
+  min-height: 400px;
+}
+
+.form-table th {
+  font-weight: bold !important;
+  border-bottom: 1px dotted gray;
+  width: 250px;
+}
+
+.form-table td {
+  border-bottom: 1px dotted gray;
+}
+
+.form-table textarea {
+  margin-top: 20px;
+  padding: 10px;
+  background: #f3f3f3;
+  font-size: 18px;
+}
+
+.submit {
+  text-align: right;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 230%;
+  line-height:.8;
+  font-weight: 100;
+}
+
+h3 {
+  font-size: 170%;
+  margin: 10px 0;
+  font-weight: 200;
+  line-height: 1.3;
+  padding-right: 25px;
+}
+
+h3.plus {
+  font-weight: 300;
+  color: #42b55d;
+}
+
+h3.free {
+  font-weight: 300;
+  color: #8a878c;
+}
+
+
+form {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.mb-free form {
+  background: transparent;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+strong {
+  font-weight: 500;
+}
+
+.wrap {
+  position: relative;
+  vertical-align: top;
+  width: 60%;
+  max-width: 800px;
+  display: inline-block;
+  background: rgba(241, 241, 241, 0.88);
+}
+
+.toplevel_page_mb-ideas-menu  .wrap {
+  max-width: 1024px;
+}
+
+.rightCol {
+  position: relative;
+  vertical-align: top;
+  width: 350px;
+  display: inline-block;
+}
+
+.box {
+  position: relative;
+  background: rgba(255, 255, 255, 0.80);
+  border-left: 4px solid #fff;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+  margin: 5px 0;
+  padding: 10px;
+  font-size: 110%;
+  line-height: 1.6;
+  font-weight: 100;
+}
+
+.box-warning {
+  border-left-color: #ffb900;
+}
+
+.box-error {
+  border-left-color: #b0000c;
+}
+
+.box-success {
+  border-left-color: #42b55d;
+}
+
+.getKey {
+  position: relative;
+  background: #42b55d;
+  border-radius: 5px;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.getKey:hover {
+  background: #4cc666;
+}
+
+.getKey span {
+  position: relative;
+  color: #fff;
+  padding: 10px;
+  display: inline-block;
+}
+
+.getKey span b {
+  font-size: 120%;
+}
+
+.message {
+  border: 1px solid transparent;
+  padding: 5px;
+  display: inline-block;
+  font-weight: 400;
+  border-radius: 5px
+}
+
+.message.error {
+  color: #b0000c;
+  border-color: #b0000c;
+}
+
+.message.success {
+  color: #42b55d;
+  border-color: #42b55d;
+}
+
+.valid {
+  color: #42b55d;
+}
+
+.invalid {
+  color: #b0000c;
+}
+
+input[name=mbtgpro_license_key] {
+  font-size: 120%;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+#license-save-bar {
+  padding: 5px;
+}
+
+#license-save-bar .message {
+  position: absolute;
+  margin-top: -10px;
+}
+
+::-webkit-input-placeholder {
+  color: rgba(0, 0, 0, 0.3);
+}
+
+:-ms-input-placeholder {
+  color: rgba(0, 0, 0, 0.3);
+}
+
+::-moz-placeholder {
+  color: rgba(0, 0, 0, 0.3);
+}
+
+:-moz-placeholder {
+  color: rgba(0, 0, 0, 0.3);
+}
+
+
+/*SWITCHER*/
+.onoffswitch {
+  position: relative; width: 60px;
+  -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+  display: none!important;
+}
+.onoffswitch-label {
+  display: block; overflow: hidden; cursor: pointer;
+  height: 25px; padding: 0; line-height: 25px;
+  border: 1px solid #999999; border-radius: 25px;
+  background-color: #aeaeae;
+  transition: background-color 0.3s ease-in;
+}
+.onoffswitch-label:before {
+  content: "";
+  display: block; width: 25px; margin: 0;
+  background: #FFFFFF;
+  position: absolute; top: 0; bottom: 0;
+  right: 33px;
+  border: 2px solid #999999; border-radius: 25px;
+  transition: all 0.2s ease-in 0s;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label {
+  background-color: #34C23C;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label, .onoffswitch-checkbox:checked + .onoffswitch-label:before {
+  border-color: #34C23C;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label:before {
+  right: 0px;
+}

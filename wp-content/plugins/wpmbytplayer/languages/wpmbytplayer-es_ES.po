@@ -1,0 +1,764 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mb.YTPlayer background video\n"
+"POT-Creation-Date: 2020-12-04 23:26+0100\n"
+"PO-Revision-Date: 2020-12-04 23:26+0100\n"
+"Last-Translator: Matteo Bicochi <matteo@open-lab.com>\n"
+"Language-Team: Open Lab srl <info@open-lab.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/mb-admin-menu.php:38
+msgid "mb.ideas installed plug-ins"
+msgstr "mb.ideas plug-ins instalados"
+
+#: mbYTPlayer.php:63
+msgid "Get your <b>Plus</b> now!"
+msgstr "Get your <b>Plus</b> now!"
+
+#: mbYTPlayer.php:267
+msgid "mb.YTPlayer"
+msgstr "mb.YTPlayer"
+
+#: mbYTPlayer.php:269
+msgid "From here you can set a background video for your home page."
+msgstr ""
+"Desde aquí se puede establecer un fondo de vídeo para tu página de inicio."
+
+#: mbYTPlayer.php:279
+msgid "activate the background video"
+msgstr "﻿activar el vídeo de fondo"
+
+#: mbYTPlayer.php:290
+msgid "Use the no-cookie host to serve the video"
+msgstr "Utilice el host sin cookies para mostrar el video"
+
+#: mbYTPlayer.php:292
+msgid "This option is available on the PLUS version of this plugin."
+msgstr "Esta opción está disponible en la versión PLUS de este complemento."
+
+#: mbYTPlayer.php:305
+msgid "The Youtube video url is:"
+msgstr "La url del video de Youtube es:"
+
+#: mbYTPlayer.php:323
+msgid ""
+"Copy and paste here the URL of the Youtube video you want as your homepage "
+"background. If you add more then one URL comma separated it will be chosen "
+"one randomly each time you reach the page"
+msgstr ""
+"Copia y pega aquí la URL del vídeo de YouTube que desea como página de "
+"inicio fondo. Adición de más de una URL separados por comas que se elegirá "
+"uno al azar cada vez que llegue a la página."
+
+#: mbYTPlayer.php:331
+msgid "The page where to show the background video is:"
+msgstr "﻿La página en la que muestra el vídeo de fondo es:"
+
+#: mbYTPlayer.php:333
+msgid "Static Homepage"
+msgstr "Página de inicio estática"
+
+#: mbYTPlayer.php:334
+msgid "Blog index Homepage"
+msgstr "Índice de blog Página principal"
+
+#: mbYTPlayer.php:335
+msgid "Both"
+msgstr "Ambos"
+
+#: mbYTPlayer.php:336
+msgid "All"
+msgstr "Todas las páginas"
+
+#: mbYTPlayer.php:338
+msgid "Choose on which page you want the background video to be shown"
+msgstr "﻿Elige en qué página desea que el vídeo de fondo que se muestra"
+
+#: mbYTPlayer.php:345
+msgid "Remember last video time position:"
+msgstr "Recuerda última posición de video:"
+
+#: mbYTPlayer.php:350
+msgid "Check to start the video from where you left last time"
+msgstr ""
+"Seleccione esta opción para iniciar el video del donde dejaste la última vez"
+
+#: mbYTPlayer.php:358
+msgid "Red zone!"
+msgstr "Red zone!"
+
+#: mbYTPlayer.php:359
+msgid ""
+"<strong>Rarely there could be a conflict with a theme or a plugins</strong> "
+"that prevent the player to work; adding a delay to the initialize event "
+"could solve the problem. Be careful that this option will delay the start of "
+"the video"
+msgstr ""
+"<strong>Raramente puede haber un conflicto con un tema o un plugins</strong> "
+"que impiden que el reproductor para que funcione; Agregar un retraso al "
+"evento initialize podría resolver el problema. Tenga cuidado de que esta "
+"opción retrasará el inicio del video"
+
+#: mbYTPlayer.php:360
+msgid "This is a global option and will affect any player in any page"
+msgstr ""
+"Esta es una opción global y afecta a cualquier jugador en cualquier pagina"
+
+#: mbYTPlayer.php:364
+msgid "Time to wait before initialization:"
+msgstr "Tiempo de espera antes de la inicialización:"
+
+#: mbYTPlayer.php:367
+msgid "none"
+msgstr "ninguno"
+
+#: mbYTPlayer.php:373
+msgid ""
+"Add a delay in seconds for the player initialization<br>(most times it needs "
+"2 sec.)"
+msgstr ""
+"Añadir un retardo en segundos para la inicialización de jugador<br>(mayoría "
+"de las veces necesita 2 seg.)"
+
+#: mbYTPlayer.php:379
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: mbYTPlayer.php:395
+msgid "Get your <strong>PLUS</strong> plug-in!"
+msgstr "¡Obtén tu <strong>PLUS</strong> plug-in!"
+
+#: mbYTPlayer.php:396
+msgid ""
+"The <strong>mb.YTPlayer PLUS</strong> plug-in enable the advanced settings "
+"panel, add a short-code editor on the post/page editor page and remove the "
+"water-mark from the video player."
+msgstr ""
+"El <strong>mb.YTPlayer PLUS</strong> plug-in permite la configuración "
+"avanzada del panel, agrega un editor de código corto en la página del editor "
+"de posts/páginas y quitar la marca de agua del reproductor de vídeo."
+
+#: mbYTPlayer.php:400
+#, php-format
+msgid "<strong>Go PLUS</strong> for <b>%s EUR</b> Only"
+msgstr "<strong>Go PLUS</strong> for <b>%s EUR</b> Only"
+
+#: mbYTPlayer.php:413
+msgid "Thanks for installing <b>mb.YTPlayer</b>!"
+msgstr "Gracias por instalar <b>mb.YTPlayer!</b>"
+
+#: mbYTPlayer.php:416
+#, php-format
+msgid "You're using mb.YTPlayer v. <b>%s</b>"
+msgstr "Estás usando mb.YTPlayer <b>v.%s</b>"
+
+#: mbYTPlayer.php:417
+msgid "by"
+msgstr "Por"
+
+#: mbYTPlayer.php:420
+msgid "Don’t forget to follow me on twitter"
+msgstr "No te olvides de seguirme en Twitter"
+
+#: mbYTPlayer.php:422
+msgid "Visit my site"
+msgstr "Visita mi sitio"
+
+#: mbYTPlayer.php:423
+msgid "Visit my blog"
+msgstr "Visita mi  Blog"
+
+#: mbYTPlayer.php:427
+msgid "donate"
+msgstr "Donar"
+
+#: mbYTPlayer.php:433
+msgid "Subscribe to my mailing list <br>to stay in touch"
+msgstr "Suscribirse a mi lista de correo <br> para mantenerse en contacto"
+
+#: mbYTPlayer.php:438
+msgid "your email address"
+msgstr "su dirección de correo electrónico"
+
+#: mbYTPlayer.php:439
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#~ msgid ""
+#~ "Rarely there could be a conflict with a theme or a plugin that prevent "
+#~ "the player to work; adding a delay to the initialize event could solve "
+#~ "the problem. Be careful that this option will delay the start of the video"
+#~ msgstr ""
+#~ "Raramente puede haber un conflicto con un tema o un plugin para que "
+#~ "evitar que el reproductor para que funcione; Agregar un retraso al evento "
+#~ "initialize podría resolver el problema. Tenga cuidado de que esta opción "
+#~ "retrasará el inicio del video"
+
+#~ msgid "milliseconds"
+#~ msgstr "milisegundos"
+
+#~ msgid "Add a delay in milliseconds for the player initialization"
+#~ msgstr "Añadir un retardo en milisegundos para la inicialización de jugador"
+
+#~ msgid "<strong>Go PLUS</strong> for <b>8 EUR</b> Only"
+#~ msgstr "¡Obtén tu <strong>PLUS</strong> plug-in por sólo <b>8 EUR</b>"
+
+#~ msgid "The Youtube vudeo url is:"
+#~ msgstr "﻿La url vudeo Youtube es:"
+
+#~ msgid "purchase a license"
+#~ msgstr "comprar una licencia"
+
+#~ msgid ""
+#~ "<h3>[YTPlayer short code]</h3><p>You need a <b>license key</b> to display "
+#~ "a <b>YTPlayer video</b> using the shortcode.<br> Go to the <b>YTPlayer "
+#~ "settings page</b> to get your license</p>"
+#~ msgstr ""
+#~ "<h3> [YTPlayer short code] </h3><p> Se necesita una <b>clave de licencia</"
+#~ "b> para visualizar un <b>video YTPlayer</b> utilizando el shortcode. <br> "
+#~ "Ir a la <b>página</b> de <b>configuración YTPlayer</b> para obtener su "
+#~ "licencia </p>"
+
+#~ msgid "Subscribe to my mailing list to stay in touch"
+#~ msgstr "Suscríbete a mi lista de correo para estar en contacto"
+
+#~ msgid "mb.YTPlayer short code generator"
+#~ msgstr "generador de shortcode mb.YTPlayer"
+
+#~ msgid "mb.YTPlayer video parameters:"
+#~ msgstr "Parámetros video mb.YTPlayer:"
+
+#~ msgid "Video url"
+#~ msgstr "Url del vídeo"
+
+#~ msgid "YouTube video URLs (comma separated)"
+#~ msgstr "URL de video de YouTube (separadas por comas)"
+
+#~ msgid "Opacity"
+#~ msgstr "Opacidad"
+
+#~ msgid "YouTube video opacity"
+#~ msgstr "Opacidad vídeo YouTube"
+
+#~ msgid "Quality"
+#~ msgstr "Calidad"
+
+#~ msgid "auto detect"
+#~ msgstr "Auto detectar"
+
+#~ msgid "small"
+#~ msgstr "Pequeño"
+
+#~ msgid "medium"
+#~ msgstr "Mediano"
+
+#~ msgid "large"
+#~ msgstr "Grande"
+
+#~ msgid "hd720"
+#~ msgstr "HD720"
+
+#~ msgid "hd1080"
+#~ msgstr "HD1080"
+
+#~ msgid "highres"
+#~ msgstr "Highres"
+
+#~ msgid "YouTube video quality"
+#~ msgstr "calidad de vídeo YouTube"
+
+#~ msgid "Aspect ratio"
+#~ msgstr "Relación de aspecto"
+
+#~ msgid "4/3"
+#~ msgstr "4/3"
+
+#~ msgid "16/9"
+#~ msgstr "16/9"
+
+#~ msgid "YouTube video aspect ratio"
+#~ msgstr "Relación de aspecto video de YouTube"
+
+#~ msgid "If \"auto\" the plug in will try to get it from Youtube"
+#~ msgstr "Si \"auto\" el plugin tratará de obtenerlo de Youtube"
+
+#~ msgid "Is inline"
+#~ msgstr "Está en línea"
+
+#~ msgid "Show the player inline"
+#~ msgstr "Mostrar el reproductor en línea"
+
+#~ msgid "Player width"
+#~ msgstr "Ancho del reproductor"
+
+#~ msgid "Set the width of the inline player"
+#~ msgstr "Establecer el ancho del reproductor en línea"
+
+#~ msgid "To get the suggested height for the player"
+#~ msgstr "Para obtener la altura sugerida para el reproductor"
+
+#~ msgid "Player height"
+#~ msgstr "Altura reproductor"
+
+#~ msgid "Set the height of the inline player"
+#~ msgstr "Ajuste la altura del reproductor en línea"
+
+#~ msgid "Element selector"
+#~ msgstr "selector de elementos"
+
+#~ msgid "Set the ID or the css class of the element where you want the player"
+#~ msgstr ""
+#~ "Establecer la ID o la clase CSS del elemento en el que desea el jugador"
+
+#~ msgid "Show controls"
+#~ msgstr "Mostrar controles"
+
+#~ msgid "show controls for this player"
+#~ msgstr "Mostrar los controles para este reproductor"
+
+#~ msgid "Full screen"
+#~ msgstr "Pantalla completa"
+
+#~ msgid "Full screen containment is the screen"
+#~ msgstr "Contención de pantalla completa es la pantalla"
+
+#~ msgid "Full screen containment is the browser window"
+#~ msgstr "Contención de pantalla completa es la ventana del navegador"
+
+#~ msgid "Show YouTube® link"
+#~ msgstr "Mostrar enlace de YouTube ®"
+
+#~ msgid "Show the link to the original YouTube® video"
+#~ msgstr "mostrar el enlace al vídeo de YouTube® original"
+
+#~ msgid "Autoplay"
+#~ msgstr "Auto reproducir"
+
+#~ msgid "The player starts on page load"
+#~ msgstr "El reproductor comienza al cargar la página"
+
+#~ msgid "Start at"
+#~ msgstr "Iniciar en"
+
+#~ msgid "Set the seconds you want the player starts at"
+#~ msgstr "Establecer los segundos en que desea que el jugador comience"
+
+#~ msgid "Stop at"
+#~ msgstr "detener en"
+
+#~ msgid "Set the seconds you want the player stops at"
+#~ msgstr "Establecer los segundos en que desea que el jugador se detenga"
+
+#~ msgid "Audio volume"
+#~ msgstr "Volumen de audio"
+
+#~ msgid "Set the audio volume (from 0 to 100)"
+#~ msgstr "Ajuste el volumen del vídeo (de 0 a 100)"
+
+#~ msgid "Mute video"
+#~ msgstr "Silenciar vídeo"
+
+#~ msgid "Mute the audio of the video"
+#~ msgstr "silenciar el audio del video"
+
+#~ msgid "Loop video"
+#~ msgstr "Volver a reproducir el video"
+
+#~ msgid "Loop the video once ended"
+#~ msgstr "Volver a reproducir el video una vez que terminó"
+
+#~ msgid "Add raster"
+#~ msgstr "Añadir efecto de trama"
+
+#~ msgid "Add a raster effect"
+#~ msgstr "añadir un efecto de trama"
+
+#~ msgid "Pause on window blur"
+#~ msgstr "Pausa el jugador si las ventanas desdibujan"
+
+#~ msgid "Pause the player on window blur"
+#~ msgstr "pausar el reproductor en la ventana de desenfoque"
+
+#~ msgid "Add Google Analytics"
+#~ msgstr "Utilice Google Analytics"
+
+#~ msgid "Add the event \"play\" on Google Analytics track"
+#~ msgstr "agregar el evento \"play\" en la pista de Google Analytics"
+
+#~ msgid "A license key is needed"
+#~ msgstr "Se necesita una clave de licencia"
+
+#~ msgid "Your license can't be verified"
+#~ msgstr "Su licencia no puede ser verificada"
+
+#~ msgid "Your license is valid"
+#~ msgstr "Tu licencia es válida"
+
+#~ msgid "An email has been sent. Follow the link"
+#~ msgstr "Un email ha sido enviado. Sigue el link"
+
+#~ msgid "mb.YTPlayer<br>Home page settings"
+#~ msgstr "MB. YTPlayer<br>Configuración de página de inicio"
+
+#~ msgid ""
+#~ "Check to activate the background video for the Homepage or the blog index "
+#~ "page"
+#~ msgstr ""
+#~ "﻿Marcar para activar el vídeo de fondo para la página de inicio o la "
+#~ "página de índice del blog"
+
+#~ msgid "Set the opacity:"
+#~ msgstr "﻿Opacidad :"
+
+#~ msgid "Set the opacity of the background video (from 0 to 10)"
+#~ msgstr "Definir la opacidad del video (de 0 a 10)"
+
+#~ msgid "Set the quality:"
+#~ msgstr "﻿Ajuste la calidad:"
+
+#~ msgid "default"
+#~ msgstr "por defecto"
+
+#~ msgid ""
+#~ "Set the quality of the background video (\"default\" YouTube selects the "
+#~ "appropriate playback quality)"
+#~ msgstr ""
+#~ "Configurar la calidad del vídeo de fondo (\"default\" YouTube selecciona "
+#~ "la calidad de reproducción apropiada)"
+
+#~ msgid "Set the aspect ratio:"
+#~ msgstr "﻿Relación de aspecto:"
+
+#~ msgid "auto"
+#~ msgstr "Automático"
+
+#~ msgid ""
+#~ "Set the aspect-ratio of the background video. If \"auto\" the plug in "
+#~ "will try to retrieve the aspect ratio from Youtube. If you have problems "
+#~ "on viewing the background video try setting this manually."
+#~ msgstr ""
+#~ "Ajuste la relación de aspecto del vídeo de fondo. Si\"auto\" el plugin "
+#~ "tratará de recuperar la relación de aspecto de Youtube. Si usted tiene "
+#~ "problemas en la visualización del fondo de vídeo establecer este ajuste "
+#~ "de forma manual."
+
+#~ msgid "The video should start at:"
+#~ msgstr "﻿El video debe comenzar en:"
+
+#~ msgid "Set the seconds the video should start at"
+#~ msgstr "Ajustar los segundos donde debe comenzar el video"
+
+#~ msgid "The video should stop at:"
+#~ msgstr "﻿El video debe parar en:"
+
+#~ msgid "Set the seconds the video should stop at"
+#~ msgstr "Configurar los segundos donde el vídeo debe parar"
+
+#~ msgid "Show the control bar:"
+#~ msgstr "﻿Mostrar la barra de control:"
+
+#~ msgid "Check to show controls at the bottom of the page"
+#~ msgstr "Marcar para mostrar los controles en la parte inferior de  página"
+
+#~ msgid "Check to show the link to the original YouTube® video"
+#~ msgstr "Marcar para mostrar el enlace al video original de YouTube ®"
+
+#~ msgid "The full screen behavior is:"
+#~ msgstr "El comportamiento de la pantalla completa es:"
+
+#~ msgid "Set the audio volume:"
+#~ msgstr "Establecer el volumen del audio:"
+
+#~ msgid "Set the volume for the video (from 0 to 100)"
+#~ msgstr "Ajuste el volumen del vídeo (de 0 a 100)"
+
+#~ msgid "Mute the video:"
+#~ msgstr "﻿Silenciar el video:"
+
+#~ msgid "Check to mute the audio of the video"
+#~ msgstr "Marcar para silenciar el audio del vídeo"
+
+#~ msgid "The video should loop:"
+#~ msgstr "﻿El vídeo debe reproducirse:"
+
+#~ msgid "Check to loop the video once ended"
+#~ msgstr "Marcar para hacer bucle en el vídeo una vez que terminó"
+
+#~ msgid "Add the raster image:"
+#~ msgstr "﻿Añadir la imagen de trama:"
+
+#~ msgid "Check to add a raster effect to the video"
+#~ msgstr "Marcar para añadir un efecto de trama al video"
+
+#~ msgid "Track the video views on Google Analytics"
+#~ msgstr "﻿Google Analytics:"
+
+#~ msgid "Check to track this video on Google Analytics if played"
+#~ msgstr "Revise el seguimiento de este video en Google Analytics si se juega"
+
+#~ msgid "Pause the player if the windows blur:"
+#~ msgstr "﻿Pausa el jugador si las ventanas desdibujan:"
+
+#~ msgid "Check to pause the player once the window blur"
+#~ msgstr "Marcar para hacer bucle en el vídeo si las ventanas desdibujan"
+
+#~ msgid "Get your license!"
+#~ msgstr "¡Obtén tu licencia!"
+
+#~ msgid ""
+#~ "You need a <b>license key</b> to remove the <b>watermark</b> from the "
+#~ "video and to enable the <b>mb.YTPlayer shortcode editor</b> for any page "
+#~ "of your site."
+#~ msgstr ""
+#~ "Se necesita una <b>clave de licencia</b> para eliminar la <b>marca</b> de "
+#~ "<b>agua</b> en el video y para permitir que el <b>editor</b> de <b>código "
+#~ "corto mb.YTPlayer</b> para cualquier página de su sitio."
+
+#~ msgid "Get your Key For <b>%s EUR</b> Only"
+#~ msgstr "Para conseguir su clave <b> %s EUR </ b> Sólo"
+
+#~ msgid "Have a key? Paste it here:"
+#~ msgstr "Tener una clave? Pegarlo aquí:"
+
+#~ msgid "Your license key"
+#~ msgstr "Tu clave de licencia"
+
+#~ msgid "This license seems not valid. Validate it, please."
+#~ msgstr "Esta licencia no parece válida. Validarlo, por favor."
+
+#~ msgid "Validate"
+#~ msgstr "Validar"
+
+#~ msgid "Activate"
+#~ msgstr "Activar"
+
+#~ msgid "Your license:"
+#~ msgstr "Su licencia"
+
+#~ msgid "This copy of mb.YTPlayer is registered."
+#~ msgstr "Esta copia de mb.YTPlayer se ha registrado."
+
+#~ msgid ""
+#~ "<b>WP-YTPLAYER 3.0</b>: <br>With this release you need a <b>license key</"
+#~ "b> to use the short-code generator on the post/page editor. Just follow "
+#~ "the link to get one!"
+#~ msgstr ""
+#~ "<b>WP-YTPlayer 3.0:</b> <br> Con esta versión se necesita una <b>clave de "
+#~ "licencia</b> para utilizar el generador de código corto en el editor de "
+#~ "entradas / página. Sólo tienes que seguir el enlace para conseguir uno!"
+
+#~ msgid "Set the mb.YTPlayer background video"
+#~ msgstr "Vídeo de fondo"
+
+#~ msgid "Set the opacity of the background video"
+#~ msgstr "Establecer la opacidad del fondo de vídeo"
+
+#~ msgid ""
+#~ "You need a license key</b> to display a YTPlayer background video using "
+#~ "the shortcode.<br> Go to the settings page and get a license"
+#~ msgstr ""
+#~ "Se necesita una clave de licencia para visualizar un vídeo de fondo "
+#~ "YTPlayer utilizando el código corto. <br> Ir a la página de configuración "
+#~ "y obtener una licencia"
+
+#~ msgid "Get your Key For <b>€5</b> Only"
+#~ msgstr "Para obtener su clave Sólo par <b>5 €</b>"
+
+#~ msgid "Thanks for installing mb.YTPlayer!"
+#~ msgstr "Gracias por instalar mb. ¡YTPlayer!"
+
+#~ msgid "You’re using mb.YTPlayer v. <b>%s</b>"
+#~ msgstr "Estás usando mb. YTPlayer v. <b>%s</b>"
+
+#~ msgid "Add a shortcode for mb.YTPlayer"
+#~ msgstr "Añadir un shortcode para mb.YTPlayer"
+
+#~ msgid ""
+#~ "If you like it and you are using it then you should consider a donation "
+#~ "<br> (€15,00 or more) :-)"
+#~ msgstr ""
+#~ "Si le gusta y lo está utilizando, entonces debería considerar una <br> "
+#~ "donación (€ 15,00 o más) :-)"
+
+#~ msgid "I already donate"
+#~ msgstr "Ya done"
+
+#~ msgid "full screen"
+#~ msgstr "pantalla completa"
+
+#~ msgid "show the link to the original YouTube® video"
+#~ msgstr "mostrar el enlace al vídeo de YouTube® original"
+
+#~ msgid "stop at"
+#~ msgstr "detener en"
+
+#~ msgid "mute the audio of the video"
+#~ msgstr "silenciar el audio del video"
+
+#~ msgid "loop the video once ended"
+#~ msgstr "Volver a reproducir el video una vez que terminó"
+
+#~ msgid "add a raster effect"
+#~ msgstr "añadir un efecto de trama"
+
+#~ msgid "pause on window blur"
+#~ msgstr "Pausa el jugador si las ventanas desdibujan"
+
+#~ msgid "pause the player on window blur"
+#~ msgstr "pausar el reproductor en la ventana de desenfoque"
+
+#~ msgid "add the event \"play\" on Google Analytics track"
+#~ msgstr "agregar el evento \"play\" en la pista de Google Analytics"
+
+#~ msgid ""
+#~ "You need a <b>license key</b> to remove the watermark from the video and "
+#~ "to add a background video to any of your site pages."
+#~ msgstr ""
+#~ "Necesita una <b>clave de licencia</b> para quitar la marca de agua de "
+#~ "vídeo y añadir un vídeo de fondo a cualquiera de las páginas del sitio."
+
+#~ msgid "You’re using mb.YTPlayer <b>v. %s</b>"
+#~ msgstr "Estás usando mb. YTPlayer <b>v. %s</b>"
+
+#~ msgid "mb.YTPlayer - Use a Youtube video as background"
+#~ msgstr "MB. YTPlayer - uso un video de Youtube como fondo"
+
+#~ msgid "You’re using mb.YTPlayer v. %s"
+#~ msgstr "Estás usando mb.YTPlayer v. %s"
+
+#~ msgid "Thanks for downloading mb.YTPlayer!"
+#~ msgstr "¡Gracias por descargar mb.YTPlayer!"
+
+#~ msgid "Set the background video"
+#~ msgstr "Vídeo de fondo"
+
+#~ msgid "mb.YTPlayer Settings"
+#~ msgstr "Configuración mb.YTPlayer"
+
+#~ msgid ""
+#~ "If you like it and you are using it<br>then you should consider a "
+#~ "donation (€15,00 or more) :-)"
+#~ msgstr ""
+#~ "Si le gusta y lo está utilizando <br> entonces usted debería considerar "
+#~ "una donación (€ 15,00 o más) :-)"
+
+#~ msgid "If you donate, the start popup will nevermore display"
+#~ msgstr "Si usted dona, el popup de inicio nunca más se mostrará"
+
+#~ msgid "Subscribe to my mailing list<br>to stay in touch"
+#~ msgstr "Suscribirse a mi lista de correo <br> para mantenerse en contacto"
+
+#~ msgid "Reference"
+#~ msgstr "Referencia"
+
+#~ msgid ""
+#~ "You can add a mb.YTPlayer to any of your posts via the shortcode editor "
+#~ "available by clicking the button placed on the button-bar of the post "
+#~ "content editor"
+#~ msgstr ""
+#~ "Puede añadir un mb.YTPlayer a cualquiera de sus mensajes a través del "
+#~ "editor de shortcode haciendo clic en el botón situado en la barra de "
+#~ "botones del editor de contenido de publicaciones"
+
+#~ msgid "Home page background video properties"
+#~ msgstr "Propiedades del video de fondo de la Página de Inicio"
+
+#~ msgid ""
+#~ "These settings are used only for the Home istance of the mb.YTPlayer "
+#~ "component"
+#~ msgstr ""
+#~ "Estos ajustes sólo se utilizan para la versión de Inicio del componente "
+#~ "mb.YTPlayer"
+
+#~ msgid ""
+#~ "Copy and paste here the URL of the Youtube video you want as your "
+#~ "homepage background. Adding more then one URL comma separated it will be "
+#~ "chosen one randomly each time you reach the page."
+#~ msgstr ""
+#~ "Copia y pega aquí la URL del vídeo de YouTube que desea como página de "
+#~ "inicio fondo. Adición de más de una URL separados por comas que se "
+#~ "elegirá uno al azar cada vez que llegue a la página."
+
+#~ msgid ""
+#~ "Leave the <b>home video url</b> blank if you don’t want to display a "
+#~ "background video on your homepage."
+#~ msgstr ""
+#~ "Deje la <b> URL del video de página de inicio</b> en blanco si no desea "
+#~ "mostrar un fondo con vídeo en su página de inicio."
+
+#~ msgid "Stop the player if a link is clicked:"
+#~ msgstr "﻿Detenga el jugador si se hace clic en un enlace:"
+
+#~ msgid ""
+#~ "Check to stop the player once clicked on a link<br>(firefox has problems "
+#~ "catching the event and this speedup the action)"
+#~ msgstr ""
+#~ "Marcar para detener al reproductor una vez que se hace clic en un vínculo "
+#~ "<br> (firefox tiene problemas para controlar el evento y este aumento de "
+#~ "velocidad de la acción)"
+
+#~ msgid ""
+#~ "Copy and paste here the URL of the Youtube video you want as your "
+#~ "homepage background"
+#~ msgstr ""
+#~ "Copia y pega aquí la URL del vídeo de YouTube que desea como fondo por la "
+#~ "página de inicio"
+
+#~ msgid "home video"
+#~ msgstr "Video de página de inicio"
+
+#~ msgid "url"
+#~ msgstr "url"
+
+#~ msgid "opacity"
+#~ msgstr "opacidad"
+
+#~ msgid "quality"
+#~ msgstr "calidad"
+
+#~ msgid "aspect ratio"
+#~ msgstr "relación de aspecto"
+
+#~ msgid "start at"
+#~ msgstr "Comenzar en"
+
+#~ msgid "show controls"
+#~ msgstr "mostrar los controles"
+
+#~ msgid "Full screen behavior"
+#~ msgstr "Comportamiento de la pantalla completa"
+
+#~ msgid "home video mute"
+#~ msgstr "Silenciar video de página de inicio"
+
+#~ msgid "loop"
+#~ msgstr "Bucle"
+
+#~ msgid "raster image"
+#~ msgstr "imágenes de trama"
+
+#~ msgid "track on Google Analytics"
+#~ msgstr "seguimiento en Google Analytics"
+
+#~ msgid "Pause the player if the windows blur"
+#~ msgstr "Pausa el jugador si las ventanas desdibujan"
+
+#~ msgid "Stop the player if a link is clicked"
+#~ msgstr "Detenga el reproductor si se hace clic en un enlace"
+
+#~ msgid "pause the video on window blur"
+#~ msgstr "Pausa el jugador si las ventanas desdibujan"
+
+#~ msgid "YouTube video URL"
+#~ msgstr "URL de vídeo de YouTube"
